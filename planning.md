@@ -24,3 +24,63 @@ Page 4 Needs:
     A label for each image
     Clicking on the image:
       opens the source of that image in a new window
+
+Body -
+  Background color(s):
+  Columns:
+  Rows:
+  Margins:
+  Padding:
+
+H1 headers -
+  Font:
+  Font color:
+  Text underlined with color:
+  Alignment:
+
+H2 headers:
+  Font:
+  Font color:
+  Text underlined with color:
+  Alignment:
+
+Paragraphs:
+  Font:
+  Font color:
+  Alignment:
+  Columns:
+  Rows:
+
+Page 1 image:
+  Size:
+  Relative Location:
+  Alignment:
+  Padding:
+  Margins:
+
+Page 2 fieldset:
+  Size:
+  Columns:
+  Rows:
+
+Page 2 Inputs:
+  Size:
+  Columns:
+  Rows:
+
+Page 2 Checkboxes:
+  Size:
+  Columns:
+  Rows:
+
+Page 3 List Styling:
+  Text underlined: No
+  Text-Decoration: Yes
+  Color:
+  Background-color:
+
+Page 4 images:
+  Size:
+  Alignment:
+  Padding:
+  Margins:
