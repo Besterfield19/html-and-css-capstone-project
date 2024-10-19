@@ -26,7 +26,7 @@ Page 4 Needs:
       opens the source of that image in a new window
 
 Body -
-  Background color(s):
+  Background color(s):  Black
   Columns:
   Rows:
   Margins:
@@ -34,19 +34,19 @@ Body -
 
 H1 headers -
   Font:
-  Font color:
-  Text underlined with color:
+  Font color: #E34234 (vermillion)
+  Text underlined with color: #E34234 (vermillion)
   Alignment:
 
 H2 headers:
   Font:
-  Font color:
-  Text underlined with color:
+  Font color: #E34234 (vermillion)
+  Text underlined with color: #E34234 (vermillion)
   Alignment:
 
 Paragraphs:
   Font:
-  Font color:
+  Font color: #E34234 (vermillion)
   Alignment:
   Columns:
   Rows:
@@ -76,8 +76,8 @@ Page 2 Checkboxes:
 Page 3 List Styling:
   Text underlined: No
   Text-Decoration: Yes
-  Color:
-  Background-color:
+  Color: #E34234 (vermillion)
+  Background-color: black
 
 Page 4 images:
   Size:
