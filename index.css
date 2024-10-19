@@ -3,3 +3,32 @@ body {
     background-color: black;
     color: #E32636;
 }
+
+header {
+    border: 1px solid #E32636;
+}
+
+nav {
+    border: 1px solid #E32636;
+}
+
+li {
+    display: inline;
+    border: 1px solid #E32636;
+    list-style-type: none;
+    font-size: x-large;
+}
+
+.navbar-list {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 10px 0;
+}
+
+.navbar-list a {
+    color: #E32636;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: large;
+}
