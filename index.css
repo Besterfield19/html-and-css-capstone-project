@@ -6,11 +6,13 @@ body {
     color: #E34234;
 }
 
-/* Nav bar styles */
+/* Header styles */
 
-nav {
-    border: 1px solid #E34234;
+header {
+    margin-left: 50px;
 }
+
+/* Nav bar styles */
 
 li {
     display: inline;
@@ -37,6 +39,10 @@ li {
     text-align: center;
 }
 
+.main-content h2 {
+    text-align: center;
+}
+
 .main-content img {
     display: flex;
     border: 1px solid #E34234;
@@ -45,4 +51,11 @@ li {
     padding: 30px;
     margin-left: 140px;
     align-self: center;
+}
+
+.main-content p {
+    display: flex;
+    font-size: x-large;
+    margin-left: 130px;
+    margin-right: 130px;
 }
