@@ -1,0 +1,34 @@
+/* General body styles */
+
+body {
+    display: grid;
+    background-color: black;
+    color: #E34234;
+}
+
+/* Header styles */
+
+header {
+    margin-left: 50px;
+}
+
+/* Nav bar styles */
+
+li {
+    display: inline;
+    list-style-type: none;
+}
+
+.navbar-list {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 10px 0;
+}
+
+.navbar-list a {
+    color: #E34234;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: xx-large;
+}
