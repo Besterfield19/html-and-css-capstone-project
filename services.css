@@ -32,3 +32,21 @@ li {
     font-weight: bold;
     font-size: xx-large;
 }
+
+/* Main Content styles */
+
+h1 {
+    text-align: center;
+}
+
+.main-content li {
+    display: grid;
+    font-size: x-large;
+}
+
+.main-content a {
+    text-decoration: none;
+    color:#E34234;
+    line-height: 1.6;
+    text-align: center;
+}
